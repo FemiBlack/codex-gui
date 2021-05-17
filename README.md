@@ -7,5 +7,10 @@ A unique guessing game... :video_game:
 - Input unique secret keys for both players :key:
 - Play on!
 
+
+## GUI still in development, to view CLI version
+
+> ```python -m app.py```
+
 Contributors:
 [@femiblack](https://github.com/FemiBlack)
